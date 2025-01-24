@@ -1,1 +1,1 @@
-SELECT "he";
+SELECT * FROM logs;
